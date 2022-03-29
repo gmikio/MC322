@@ -2,6 +2,6 @@
 
 ## Notebook 1 sobre Empréstimos
 
-[Notebook1](notebook/emprestimo01.ipynb)
+[Notebook1](notebook/lab01-basicos01-java-ra248295.ipynb)
 
 ## Notebook 2 sobre Empréstimos e TAD (opcional)
